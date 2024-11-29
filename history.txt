@@ -1,0 +1,42 @@
+gergerhhrj
+wait
+ls
+meow
+echo meow
+huhbybyy
+exit
+
+\q
+\mem 	1
+exit
+/bin/ls
+/bin/ls
+/bin/cd app
+/bin/pwd
+exit
+/bin/ls
+/bin/ls
+/bin/cd app
+/bin/cat damp_proc
+/bin/ls
+/bin/ls
+/bin/cd app
+/bin/cat damp_proc
+exit
+exit
+\q
+\mem 1
+exit
+exit
+exit
+\q
+exit
+\q
+echo kurukuru
+\e $PATH
+\e $USER
+/bin/ls
+/bin/pwd
+\l /dev/sda
+\l /dev/sda3
+\mem 1
